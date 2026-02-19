@@ -22,7 +22,7 @@ Hier findest du die detaillierten Berichte zu meinen Projekten und Erkenntnissen
 
 ---
 
-## 🎯 Zweck des Repositories
+## 🎯 Zweck vom Projektarchiv
 Ich möchte damit zeigen:
 - Wie man ohne Vorkenntnisse mit KI starten kann.
 - Wo Copilot an Grenzen kommt.

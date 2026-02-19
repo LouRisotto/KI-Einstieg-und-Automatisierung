@@ -1,4 +1,5 @@
-# Claudia’s Copilot-Workflow
+# Von der Idee zur Automatisierung: Claudias KI-Workflow
+Ein Erfahrungsbericht über den Einsatz von Copilot & Visual Studio bei AFRY
 
 Dieses Repository sammelt meine persönlichen Erfahrungen mit GitHub Copilot, Visual Studio und meinen ersten Schritten in Richtung Automatisierung.
 

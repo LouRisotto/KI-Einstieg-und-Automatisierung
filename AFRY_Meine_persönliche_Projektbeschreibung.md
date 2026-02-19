@@ -5,7 +5,7 @@ Meine persönliche Geschichte, mein Weg und meine Erfahrungen
 
 ## 🌱 Wie alles begann
 
-Seit 2025 beschäftige ich mich privat und beruflich mit dem großen Thema **KI**.  
+Seit 2023 beschäftige ich mich privat und beruflich mit dem großen Thema **KI**.  
 Angefangen hat alles in meiner Ausbildungszeit:  
 Ich wollte Präsentationen für die Berufsschule besser strukturieren und nutzen – und KI war dafür perfekt.
 

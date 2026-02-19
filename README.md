@@ -16,6 +16,16 @@ Ziel ist es, transparent zu zeigen, wie Copilot **unterstützen**, aber auch **f
 ---
 
 # 📂 Struktur des Repositories
+📁 /success
+→ Beispiele erfolgreicher Copilot-Unterstützung
+📁 /failures
+→ Situationen, in denen Copilot unvollständige, falsche oder unbrauchbare Vorschläge geliefert hat
+📁 /manual-fixes
+→ Eigene Lösungen, Verbesserungen oder komplett manuell erstellte Alternativen
+📁 /screenshots
+→ Bilder aus Visual Studio, Copilot-Vorschauen und Fehlermeldungen
+📄 lessons-learned.md
+→ Erkenntnisse aus meinen Erfahrungen mit Copilot
 
 # 📬 Feedback & Zusammenarbeit
 

@@ -71,26 +71,29 @@ Ich verstand nur einen Teil davon – aber es lief.
 
 ---
 
-### ✔️ DatumAktualisieren_AlleLayouts.lsp
+#### ✔️ DatumAktualisieren_AlleLayouts.lsp
 
-**Ausgangssituation:**  
-Über 20 Layouts mit Stempelfeld als Block mit Attributen.  
-Das Datum sollte überall bei dem gleichen definierten Attribut einheitlich angepasst werden.
+**Ausgangssituation:** In einer Zeichnung mit über 20 Layouts existierte ein Stempelfeld als Block mit Attributen. Das Datum sollte bei einem spezifisch definierten Attribut (Tag) überall einheitlich angepasst werden.
 
-Die Idee:  
-➡️Ein Befehl der alle Layouts automatisch durchgeht und das Datum im Attribute aktualisieren.
+**Die Idee:** Ein einziger Befehl, der automatisch alle Layouts durchläuft und den Wert im Attribut aktualisiert, ohne jedes Layout einzeln öffnen zu müssen.
 
-<img width="306" height="842" alt="image" src="https://github.com/user-attachments/assets/64216e91-26b2-4a45-8728-e027d2604341" />
+<img width="306" height="842" alt="Screenshot der LISP-Logik" src="https://github.com/user-attachments/assets/64216e91-26b2-4a45-8728-e027d2604341" />
 
-Mit KI war das grundsätzlich machbar – aber:
+**Die Bilanz der Automatisierung:**
 
-- manche Vorschläge waren unvollständig  
-- manchmal erfand Copilot Funktionen  
-- manchmal passten Befehle nicht zu AutoCAD  
+| Methode | Zeitaufwand | Bemerkung |
+| :--- | :--- | :--- |
+| **Manuelle Anpassung** | ~ 10 Min. | Fehleranfällig bei vielen Layouts |
+| **Skript-Erstellung (KI)** | ~ 30 Min. | Einmaliger Lernaufwand ohne Vorkenntnisse |
+| **Anwendung der Lisp** | **~ 2 Min.** | Sofortiger Erfolg für alle Layouts |
 
-Ich merkte schnell:
+**Erfahrungen mit Copilot:**
+Die Umsetzung war grundsätzlich machbar, erforderte aber eine kritische Prüfung, da:
+* manche Vorschläge unvollständig waren.
+* Copilot Funktionen „erfand“, die es in LISP so nicht gibt.
+* Befehle teilweise nicht exakt zur AutoCAD-Version passten.
 
-➡️ **KI kann LISP unterstützen – aber nicht ohne Fehler.**
+> **Mein Fazit:** > KI kann die Erstellung von LISP-Routinen massiv unterstützen und Hürden abbauen – aber sie ersetzt nicht das Testen und das grundlegende Verständnis der AutoCAD-Befehle.
 
 ---
 

@@ -31,7 +31,24 @@ Sie bilden die praktische Grundlage für viele Beispiele dieses Repositories.
 
 ---
 
-## 1. 🔄 Automatisches Umbenennen von PDF-Dateien nach BIM-Datencodierung  
+## 1. 🧰 Python-Skripte im Ordner **AFRY_Einarbeitung**
+
+**Beispiele:**  
+- `convert_json.py`  
+- `extrahiere_dokumente.py`  
+- `fix_quiz.py`  
+- `restructure.py`  
+- `remove_tag10.py`  
+
+**Ziel:**  
+Automatisierung und Datenaufbereitung für Einarbeitungs- und Schulungsunterlagen.
+
+**Hintergrund:**  
+Viele Skripte entstanden mit Copilot-Unterstützung – teils erfolgreich, teils fehlerhaft → ideale Lernbeispiele.
+
+---
+
+## 2. 🔄 Automatisches Umbenennen von PDF-Dateien nach BIM-Datencodierung  
 **Datei:** `rename_bim_pdf.py`  
 
 **Ziel:**  
@@ -46,23 +63,6 @@ PDF-Dateien automatisch anhand eines im Dokument enthaltenen BIM‑Codes erkenne
 - ❌ erster Ansatz (pypdf Textauslesen) fehlgeschlagen  
 - ✔️ zweiter Ansatz mit OCR erfolgreich  
 - 🔧 aktuell in Überarbeitung
-
----
-
-## 2. 🧰 Python-Skripte im Ordner **AFRY_Einarbeitung**
-
-**Beispiele:**  
-- `convert_json.py`  
-- `extrahiere_dokumente.py`  
-- `fix_quiz.py`  
-- `restructure.py`  
-- `remove_tag10.py`  
-
-**Ziel:**  
-Automatisierung und Datenaufbereitung für Einarbeitungs- und Schulungsunterlagen.
-
-**Hintergrund:**  
-Viele Skripte entstanden mit Copilot-Unterstützung – teils erfolgreich, teils fehlerhaft → ideale Lernbeispiele.
 
 ---
 

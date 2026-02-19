@@ -54,6 +54,8 @@ Ich dachte zuerst, KI wäre schuld — dabei war ich es selbst.
 
 Ich beugte mich der Situation und begann, den Umgang mit LISP wirklich zu lernen.
 
+<img width="1255" height="802" alt="image" src="https://github.com/user-attachments/assets/01f2163e-b1f4-4f32-977a-a60d0582b075" />
+
 ---
 
 ### ✔️ AllesNachLayer.lsp
@@ -79,7 +81,6 @@ Das Datum sollte überall einheitlich geändert werden.
 Die Idee:  
 ➡️ Alle Layouts automatisch durchgehen lassen und das Datum aktualisieren.
 
-<img width="306" height="842" alt="image" src="https://github.com/user-attachments/assets/64216e91-26b2-4a45-8728-e027d2604341" />
 <img width="306" height="842" alt="image" src="https://github.com/user-attachments/assets/64216e91-26b2-4a45-8728-e027d2604341" />
 
 Mit KI war das grundsätzlich machbar – aber:

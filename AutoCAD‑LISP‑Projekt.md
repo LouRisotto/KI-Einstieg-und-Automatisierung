@@ -50,7 +50,6 @@ Später stellte sich heraus:
 ➡️ Und wieder wurde mir klar: *Wenn ich etwas weiß, dann dass ich nichts weiß.*
 
 Visual Studio führte meine Befehle nicht mehr wie gewohnt automatisch aus, sondern verlangte manuelle Schritte.  
-Ich dachte zuerst, KI wäre schuld — dabei war ich es selbst.
 
 Ich beugte mich der Situation und begann, den Umgang mit LISP wirklich zu lernen.
 

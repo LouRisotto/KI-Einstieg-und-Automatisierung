@@ -1,53 +1,35 @@
-# Claudia’s Copilot‑Workflow
+# Claudia’s Copilot-Workflow
+
 Dieses Repository sammelt meine persönlichen Erfahrungen mit GitHub Copilot, Visual Studio und meinen ersten Schritten in Richtung Automatisierung.
 
-Ich arbeite seit 2025 immer mehr mit KI – privat und beruflich.  
-Ich habe keine Programmierausbildung, sondern lerne alles „unterwegs“ und mit Unterstützung von Copilot.  
-Deshalb ist dieses Repository keine technische Sammlung, sondern eine Dokumentation meines Weges:
-
-- Was ich ausprobiert habe  
-- Was gut funktioniert hat  
-- Was nicht funktioniert hat  
-- Was ich dabei gelernt habe  
+Ich habe keine Programmierausbildung, sondern lerne alles „unterwegs“ mit Unterstützung von Copilot. Dieses Repository dokumentiert meinen Weg, meine Erfolge und meine Fehler.
 
 ---
 
-## 📂 Inhalt des Repositories
+## 📖 Inhaltsverzeichnis (Schulungsinhalte)
 
-### 📁 Projektbeschreibungen  
-Hier dokumentiere ich einzelne Projekte, z. B.:
+Hier findest du die detaillierten Berichte zu meinen Projekten und Erkenntnissen. Klicke einfach auf die Links, um die Seiten zu öffnen:
 
-- Python‑Skripte rund um die AFRY‑Einarbeitung  
-- kleine Automatisierungen  
-- meine Lernschritte in Visual Studio  
-- Versuche mit AutoCAD‑LISP  
-- Analyse von DWG‑Z‑Koordinaten  
-- Auslesen von PDF‑Dateien über BIM‑Codierung
+* **[🌱 Meine persönliche Geschichte](./AFRY_Meine_persönliche_Projektbeschreibung.md)**
+    *Wie ich ohne Programmierkenntnisse ins kalte Wasser gesprungen bin und was im "Lernlabor" AFRY-Einarbeitung passiert ist.*
 
-### 📁 screenshots  
-Bilder, die meine Arbeitsschritte oder Fehlversuche zeigen.
+* **[💻 AutoCAD-LISP Projekt](./AutoCAD-LISP-Projekt.md)**
+    *Meine Versuche, Routineaufgaben in AutoCAD zu automatisieren – inklusive der Lektion, dass KI auch manchmal Funktionen erfindet.*
 
-### 📄 lessons-learned.md  
-Meine wichtigsten Erkenntnisse aus der Arbeit mit KI.
+* **[💡 Lessons Learned – Meine Erkenntnisse](./lessons-learned.md)**
+    *Die wichtigste Zusammenfassung für die tägliche Arbeit: Warum Copilot kein Autopilot ist und wie man bessere Prompts schreibt.*
 
 ---
 
 ## 🎯 Zweck des Repositories
-
-Dieses Repository ist eine persönliche Lernsammlung.  
 Ich möchte damit zeigen:
+- Wie man ohne Vorkenntnisse mit KI starten kann.
+- Wo Copilot an Grenzen kommt.
+- Dass Fehler zum Lernprozess dazugehören.
 
-- wie man ohne Vorkenntnisse mit KI starten kann  
-- wie Copilot bei meinen Aufgaben hilft  
-- wo Copilot an Grenzen kommt  
-- was ich dadurch verstanden habe  
-- wie meine Projekte nach und nach wachsen
-
-Es ist nicht perfekt – aber es ist echt.  
-Und das macht es wertvoll für Schulungen und den Austausch mit Kolleginnen.
+Es ist nicht perfekt – aber es ist echt. Und das macht es wertvoll für Schulungen und den Austausch mit Kolleginnen.
 
 ---
 
 ## 💬 Feedback
-
 Wer möchte, kann gerne auf mich zukommen oder ein Issue erstellen.

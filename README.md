@@ -13,7 +13,7 @@ Hier findest du die detaillierten Berichte zu meinen Projekten und Erkenntnissen
 * **[🌱 Meine persönliche Geschichte](./AFRY_Meine%20persönliche%20Projektbeschreibung.md)**
     *Wie ich ohne Programmierkenntnisse ins kalte Wasser gesprungen bin und was im "Lernlabor" AFRY-Einarbeitung passiert ist.*
 
-* **[💻 AutoCAD-LISP Projekt](./AutoCAD-LISP-Projekt.md)**
+* **[💻 AutoCAD-LISP Projekt](./AutoCAD‑LISP‑Projekt.md)**
     *Meine Versuche, Routineaufgaben in AutoCAD zu automatisieren – inklusive der Lektion, dass KI auch manchmal Funktionen erfindet.*
 
 * **[💡 Lessons Learned – Meine Erkenntnisse](./lessons-learned.md)**

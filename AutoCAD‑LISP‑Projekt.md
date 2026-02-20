@@ -91,11 +91,14 @@ Ich verstand nur einen Teil davon – aber es lief.
 | **Skript-Erstellung (KI)** | ~ 30 Min. | Einmaliger Lernaufwand ohne Vorkenntnisse |
 | **Anwendung der Lisp** | **~ 2 Min.** | Sofortiger Erfolg für alle Layouts |
 
-**Erfahrungen mit Copilot:**
-Die Umsetzung war grundsätzlich machbar, erforderte aber eine kritische Prüfung, da:
-* manche Vorschläge unvollständig waren.
-* Copilot Funktionen „erfand“, die es in LISP so nicht gibt.
-* Befehle teilweise nicht exakt zur AutoCAD-Version passten.
+## 🧠 Erfahrungen mit Copilot
+
+Die Umsetzung war grundsätzlich machbar, aber sie erforderte eine kritische Prüfung der Ergebnisse. Ich habe dabei festgestellt:
+
+- Manche Vorschläge waren unvollständig.
+- Copilot hat teilweise Funktionen „erfunden“, die es in LISP gar nicht gibt.
+- Einige Befehle passten nicht exakt zu meiner AutoCAD‑Version.
+- Damit das LISP zuverlässig funktioniert, müssen **alle Attribute einheitliche Namen** haben – hier ist also Standardisierung entscheidend.
 
 > **Mein Fazit:** > KI kann die Erstellung von LISP-Routinen massiv unterstützen und Hürden abbauen – aber sie ersetzt nicht das Testen und das grundlegende Verständnis der AutoCAD-Befehle.
 

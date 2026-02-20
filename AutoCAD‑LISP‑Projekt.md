@@ -86,8 +86,8 @@ Ich verstand nur einen Teil davon – aber es lief.
 ## 🎥 Video – Ein kleiner Einblick
 
 <a href="./DatumAktualisieren_AlleLayouts.mp4">
-  <img width="1912" height="896" alt="image" src="https://github.com/user-attachments/assets/b251cf35-c409-498d-9ea2-e1409a4b5700" />
-<img width="1912" height="896" alt="image" src="https://github.com/user-attachments/assets/b251cf35-c409-498d-9ea2-e1409a4b5700" />
+  <img width="350" alt="image" src="https://github.com/user-attachments/assets/b251cf35-c409-498d-9ea2-e1409a4b5700" />
+
 
 
 

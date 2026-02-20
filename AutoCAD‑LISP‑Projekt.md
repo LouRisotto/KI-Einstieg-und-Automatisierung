@@ -83,9 +83,12 @@ Ich verstand nur einen Teil davon – aber es lief.
 <img width="278" height="682" alt="image" src="https://github.com/user-attachments/assets/77a0e2ac-b8db-434c-ab96-f82f5edd02d5" />
 <img width="272" height="660" alt="image" src="https://github.com/user-attachments/assets/dec20a2d-83eb-48b4-9211-3ee6bde4e164" />
 
-**Ergebnis - ein kleiner Einblick**
+## 🎥 Video – Ein kleiner Einblick
 
-[<img src="./screenshots/layout_update_thumb.png" width="600">](./DatumAktualisieren_AlleLayouts.mp4)
+<a href="./DatumAktualisieren_AlleLayouts.mp4">
+  <img src="./screenshots/layout_update_thumb.png" width="650" style="border:2px solid #ccc; border-radius:6px;">
+</a>
+
 
 **Die Bilanz der Automatisierung:**
 

@@ -64,7 +64,7 @@ Es sollte enthalten:
 - Eine klare, übersichtliche Struktur  
 
 **Ziele:**
-- Jede neue Kollegin kann selbstständig starten  
+- Jede neue KollegenInnen kann selbstständig starten  
 - Der Firmenstandard bleibt erhalten  
 - Wissen geht nicht verloren, selbst wenn man mal nicht da ist
 
@@ -176,8 +176,8 @@ Es ist:
 ## 📌 Was als Nächstes kommt
 
 Ich werde in weiteren Dateien meine zwei größeren Beispiele beschreiben:
-1. AutoCAD‑LISP    
-3. BIM‑PDF‑Auslesen  
+1. [💻 AutoCAD-LISP Projekt](./AutoCAD‑LISP‑Projekt.md)  
+3. BIM‑PDF‑Auslesen  [💻 AutoCAD-LISP Projekt](./AutoCAD‑LISP‑Projekt.md)
 
 Jedes Projekt bekommt seine eigene Geschichte – mit Screenshots, meinen Gedanken und meinen Erfahrungen.
 
